@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arun Roy</h1>
-<h3 align="center">A passionate FullStack Java developer from India</h3>
+<h3 align="center">Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arayrupa&label=Profile%20views&color=0e75b6&style=flat" alt="arayrupa" /> </p>
 
-- 🔭 I’m currently working on **Dynamic News Portal Website**
+- 🔭 I’m currently working on **Dynamic Ecommerce Project**
 
 - 🌱 I’m currently learning **Spring Boot and Microservices**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [arayrupa](arayrupa)
 
-- 📫 How to reach me **arun90371@gmail.com**
+- 📫 How to reach me **akrs8052@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arun-r%C3%B5y-ba66a1221/](https://www.linkedin.com/in/arun-r%C3%B5y-ba66a1221/)
 
